@@ -1,0 +1,10 @@
+# data
+/capture
+/image
+/video
+
+# model
+/onnx_model
+/opencv_face_detector
+
+/output_video
